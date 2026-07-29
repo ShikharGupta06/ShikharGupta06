@@ -1,6 +1,6 @@
-# Hi 👋, I'm Shikhar Gupta
+<h1 align="center">Hi 👋, I'm Vivek Kumar Singh</h1>
 
-### A top-performing full-stack website developer from India | Webapp (MERN, React) | Vs code | 200+ DSA problems solved | Building scalable webapps with clean architecture 💡📱💻
+<h3 align="center">🚀  A top-performing full-stack website developer from India | Webapp (MERN, React) | Vs code | 200+ DSA problems solved | Building scalable webapps with clean architecture 💡📱💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShikharGupta06&label=Profile views&color=0e75b6&style=flat" alt="ShikharGupta06" /> </p>
 
