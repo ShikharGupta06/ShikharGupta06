@@ -11,6 +11,19 @@
 - 📫 Reach me at: **[shikhargupta7390@gmail.com]**
 - 🌐 Portfolio: **[(https://6a687d52e1b10f236e20e16c--shihkhar-portfolio-deploy.netlify.app/)]**
 
+---
+
+### 🔗 Connect with me
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" alt="linkedin"/>
+  </a>
+  <a href="https://6a687d52e1b10f236e20e16c--shihkhar-portfolio-deploy.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/>
+  </a>
+</p>
+
 ### 🧰 Languages & Tools
 
 <p align="left">
@@ -42,14 +55,3 @@
 </p>
 
 ---
-
-### 🔗 Connect with me
-
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" alt="linkedin"/>
-  </a>
-  <a href="https://6a687d52e1b10f236e20e16c--shihkhar-portfolio-deploy.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/>
-  </a>
-</p>
