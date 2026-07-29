@@ -11,35 +11,6 @@
 - 📫 Reach me at: **[shikhargupta7390@gmail.com]**
 - 🌐 Portfolio: **[(https://6a687d52e1b10f236e20e16c--shihkhar-portfolio-deploy.netlify.app/)]**
 
----
-
-### 🚀 Featured Project — DocQA
-
-A full-stack **RAG-based Document Q&A platform** built end-to-end, from development to production deployment.
-
-- 🔐 JWT authentication with OTP email verification (Brevo SMTP)
-- 📄 PDF ingestion with a **500-word sliding window** text chunking pipeline (50-word overlap)
-- 🧠 Vector embeddings via **Google Gemini** (`gemini-embedding-001`), retrieved using **cosine similarity**
-- 🤖 Answer generation powered by **Groq's `llama-3.3-70b-versatile`**
-- ☁️ Deployed on **Render** (backend) + **Netlify** (frontend) with **MongoDB Atlas**
-- 🛠️ Solved real production issues: duplicate user records, OTP redirect flow, protected-route flashing, proxy trust config, and client-side routing on Netlify
-
-**Tech stack:** MongoDB · Express.js · React · Node.js · Gemini API · Groq API · JWT · Brevo SMTP
-
-🔗 Live demo: **[https://doc-qa-rag-patform.netlify.app/]**
-🔗 Repo: **[https://github.com/ShikharGupta06/Doc-QA-RAG-Platform]**
-
----
-
-### 📌 Other Projects
-
-> _Add your other projects here — name, one-line description, tech stack, and links._
-
-- **[Project Name]** — Short description. `Tech, Tech, Tech`
-- **[Project Name]** — Short description. `Tech, Tech, Tech`
-
----
-
 ### 🧰 Languages & Tools
 
 <p align="left">
