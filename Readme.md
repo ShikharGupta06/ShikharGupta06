@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shikhar Gupta</h1>
 
 <p align="center">
-  <img alt="coding" width="400" src="gifImg-8.gif"/>
+  <img alt="coding" width="500" height="500" src="gifImg-8.gif"/>
 </p>
 
 <h3 align="center">🚀  A top-performing full-stack website developer from India | Webapp (MERN, React) | Vs code | 200+ DSA problems solved | Building scalable webapps with clean architecture 💡💻</h3>
