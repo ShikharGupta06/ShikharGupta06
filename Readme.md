@@ -24,6 +24,8 @@
   </a>
 </p>
 
+---
+
 ### 🧰 Languages & Tools
 
 <p align="left">
@@ -54,4 +56,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ShikharGupta06" alt="Trophies" />
 </p>
 
----
