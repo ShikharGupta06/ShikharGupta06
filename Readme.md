@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shikhar Gupta</h1>
 
 <p align="center">
-  <img alt="coding" width="400" src="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif"/>
+  <img alt="coding" width="400" src="C:\Users\shikh\OneDrive\Desktop\Github profile\gifImg-8.gif"/>
 </p>
 
 <h3 align="center">🚀  A top-performing full-stack website developer from India | Webapp (MERN, React) | Vs code | 200+ DSA problems solved | Building scalable webapps with clean architecture 💡💻</h3>
