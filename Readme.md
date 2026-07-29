@@ -1,58 +1,32 @@
-<h1 align="center">Hi 👋, I'm Shikhar Gupta</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack | AI/ML Integrations | Cloud Deployment</h3>
+# Hi 👋, I'm Shikhar Gupta
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv68767E/giphy.gif" width="400" alt="developer gif"/>
-</p>
+### A top-performing full-stack website developer from India | Webapp (MERN, React) | Vs code | 200+ DSA problems solved | Building scalable webapps with clean architecture 💡📱💻
 
-- 🔭 I'm currently building **full-stack, production-ready applications** with integrated AI/ML pipelines
-- 🌱 I'm sharpening my skills in **RAG systems, vector search, and cloud deployment pipelines**
-- 💬 Ask me about **MERN stack, JWT auth, RAG pipelines, vector embeddings, and cloud deployment (Render/Netlify)**
-- 📫 Reach me at: **[shikhargupta7390@gmail.com]**
-- 🌐 Portfolio: **[(https://6a687d52e1b10f236e20e16c--shihkhar-portfolio-deploy.netlify.app/)]**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShikharGupta06&label=Profile views&color=0e75b6&style=flat" alt="ShikharGupta06" /> </p>
 
----
+- 🌱 I'm currently learning **Software Architechture  & Data structure and algorithm & Polish my skill set of MERN stack **
 
-### 🔗 Connect with me
+- 💬 Ask me about **Ask me about MERN stack, JWT auth, RAG pipelines, vector embeddings, and cloud deployment (Render/Netlify)**
 
+- 📫 How to reach me **shikhargupta7390@gmail.com**
+
+- 👨‍💻 All of my projects are available at **[https://6a687d52e1b10f236e20e16c--shihkhar-portfolio-deploy.netlify.app/](https://6a687d52e1b10f236e20e16c--shihkhar-portfolio-deploy.netlify.app/)**
+
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1lLpxlqGY4IyzcpQvwqJH8FTiKZgBP35I/view](https://drive.google.com/file/d/1lLpxlqGY4IyzcpQvwqJH8FTiKZgBP35I/view)**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" alt="linkedin"/>
-  </a>
-  <a href="https://6a687d52e1b10f236e20e16c--shihkhar-portfolio-deploy.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/>
-  </a>
+<a href="https://github.com/ShikharGupta06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ShikharGupta06" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shikhar-gupta-1667592a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shikhar-gupta-1667592a5/" height="30" width="40" /></a>
+<a href="https://leetcode.com/https://leetcode.com/u/Shikhargupta006/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Shikhargupta006/" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
 
-### 🧰 Languages & Tools
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShikharGupta06&show_icons=true&locale=en&layout=compact" alt="ShikharGupta06" /></p>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="javascript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="react"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="nodejs"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" alt="express" style="filter: invert(0.6)"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="mongodb"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" alt="git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="html5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="css3"/>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShikharGupta06&show_icons=true&locale=en" alt="ShikharGupta06" /></p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShikharGupta06&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShikharGupta06&layout=compact" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShikharGupta06" alt="Trophies" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShikharGupta06&" alt="ShikharGupta06" /></p>
 
