@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vivek Kumar Singh</h1>
+<h1 align="center">Hi 👋, I'm Shikhar Gupta</h1>
 
 <h3 align="center">🚀  A top-performing full-stack website developer from India | Webapp (MERN, React) | Vs code | 200+ DSA problems solved | Building scalable webapps with clean architecture 💡📱💻</h3>
 
