@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shikhar Gupta</h1>
 
 <p align="center">
-  <img src="https://www.tech-bhai.com/web-development/" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="developer gif" width="500"/>
 </p>
 
 <h3 align="center">🚀  A top-performing full-stack website developer from India | Webapp (MERN, React) | Vs code | 200+ DSA problems solved | Building scalable webapps with clean architecture 💡💻</h3>
